@@ -4,7 +4,3 @@ console.log(name,dob)
 name ="SWETA"
 console.log(name)
 console.log(dob)
-
-
-
-
